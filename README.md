@@ -1,1 +1,2 @@
-# demo
+# WebLogic 11g Demo Webservice
+[https://www.reddit.com/r/springsource/comments/5eoym1/springboot_webservice_in_weblogic_11g/](https://www.reddit.com/r/springsource/comments/5eoym1/springboot_webservice_in_weblogic_11g/)
